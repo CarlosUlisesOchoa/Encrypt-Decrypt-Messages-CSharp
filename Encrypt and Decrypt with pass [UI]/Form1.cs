@@ -10,20 +10,25 @@ namespace Encrypt_and_Decrypt_with_pass__UI_
 
         ToolTip tt = new ToolTip();
 
+        Timer timer1 = new Timer();
+
         public Encrypter()
         {
             InitializeComponent();
             setPasswordState(true);
             this.Text = "Encrypter v"+version;
+
+            timer1.Enabled = true;
+            timer1.Tick += timer1_Tick;
+            timer1.Interval = 3000;
+            timer1.Start();
         }
 
-        private void picBoxEncrypt_Click(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)
         {
-            
-        }
-
-        private void picBoxDecrypt_Click(object sender, EventArgs e)
-        {
+            about();
+            timer1.Stop();
+            timer1.Enabled = false;
         }
 
         private string checkInputs()
@@ -43,6 +48,7 @@ namespace Encrypt_and_Decrypt_with_pass__UI_
                     if (radBtnEncrypt.Checked)
                     {
                         txtOutput.Text = Crypt.Encrypt(txtInput.Text, txtPassword.Text);
+                        MessageBox.Show(null, "Encrypted! please remember that you shall save you key too or you'll not be able to decrypt", "Encrypter - Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                     else if (radBtnDecrypt.Checked)
                     {
@@ -167,6 +173,18 @@ namespace Encrypt_and_Decrypt_with_pass__UI_
         private void txtPassword_Click(object sender, EventArgs e)
         {
             txtPassword.SelectAll();
+        }
+
+        private void aboutThisToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            about();
+        }
+
+        private void about()
+        {
+            AcercaDe vA = new AcercaDe();
+            vA.StartPosition = FormStartPosition.CenterScreen;
+            vA.Visible = true;
         }
     }
 }

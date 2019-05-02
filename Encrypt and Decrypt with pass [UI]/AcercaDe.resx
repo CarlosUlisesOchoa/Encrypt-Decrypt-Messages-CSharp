@@ -117,23 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="exchange icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\exchange icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="dencrypt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\dencrypt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="encrypt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\encrypt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="eye_on" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\eye_on.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="eye_off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\eye_off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="perfil_recor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\perfil recor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lbl_Decription.Text" xml:space="preserve">
+    <value>Mi nombre es Carlos Ulises, soy estudiante de la carrera de ingeniería
+en sistemas computacionales, me encanta todo lo relacionado con la 
+tecnología, especialmente el area del desarrollo web. 
+
+Constantemente estoy intentando aprender nuevas tecnologías para 
+poder mejorar mis habilidades en esa y otras areas.
+
+Si quieres modificar este proyecto, solo te pido conserves mis créditos, 
+¡ gracias !
+</value>
   </data>
 </root>

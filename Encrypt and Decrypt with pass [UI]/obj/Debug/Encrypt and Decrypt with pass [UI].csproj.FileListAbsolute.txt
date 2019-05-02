@@ -8,3 +8,4 @@ g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Enc
 g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].pdb
 g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt_and_Decrypt_with_pass__UI_.Encrypter.resources
 G:\Documentos\Visual Studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].csproj.CoreCompileInputs.cache
+G:\Documentos\Visual Studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt_and_Decrypt_with_pass__UI_.AcercaDe.resources
