@@ -1,0 +1,10 @@
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\bin\Debug\Encrypt and Decrypt with pass [UI].exe.config
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\bin\Debug\Encrypt and Decrypt with pass [UI].exe
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\bin\Debug\Encrypt and Decrypt with pass [UI].pdb
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].csprojResolveAssemblyReference.cache
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt_and_Decrypt_with_pass__UI_.Properties.Resources.resources
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].csproj.GenerateResource.Cache
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].exe
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].pdb
+g:\documentos\visual studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt_and_Decrypt_with_pass__UI_.Encrypter.resources
+G:\Documentos\Visual Studio 2017\Projects\Encrypt and Decrypt with pass [UI]\Encrypt and Decrypt with pass [UI]\obj\Debug\Encrypt and Decrypt with pass [UI].csproj.CoreCompileInputs.cache
