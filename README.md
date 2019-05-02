@@ -8,7 +8,7 @@ This program will help you if you want to store text in a secure way
   <li>1.- Insert the text you want to encrypt</li>
   <li>2.- Write a key, this key is indispensable for future decrypt process</li>
   <li>3.- Clic "GO" and the magic will happend</li>
-  <li>4.- Now, you have your text encrypted, copy it and save it wherever you want, just remember that you will need the key for future decrypt, if you don't have the key you won't be able for decrypt it.
+  <li>4.- Now, you have your text encrypted, copy it and save it wherever you want, just remember that you will need the key when you want to decrypt it, if you don't have the key you won't be able to decrypt it.
 </ul>
 
 <ul>
