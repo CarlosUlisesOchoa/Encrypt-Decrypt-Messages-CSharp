@@ -21,7 +21,7 @@ This program will help you if you want to store text in a secure way
 - [Features](#features)
 - [Built with](#built-with)
 - [Instructions](#instructions)
-- [Demo](#images)
+- [Demo](#demo)
 - [License](#license)
 - [Download](#download)
 - [About developer](#about-developer)
