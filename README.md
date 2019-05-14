@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="#!"><img src="https://img.shields.io/badge/Version-1.1.0-yellow.svg"></a>
-  <a href="https://raw.githubusercontent.com/CarlosUlisesOchoa/Encrypt-Decrypt-Messages-CSharp/master/Encrypt%20and%20Decrypt%20with%20pass%20%5BUI%5D/bin/Debug/Encrypt%20and%20Decrypt%20with%20pass%20%5BUI%5D.exe" target="_BLANK"><img src="https://img.shields.io/badge/Descargar-Version_estable-green.svg"/></a>
-  <a href="#!"><img src="https://img.shields.io/badge/Contribuidores-0-blue.svg?style=flat-square"></a>
-  <a href="#!"><img src="https://img.shields.io/badge/Licencia-MIT-orange.svg?style=flat-square"></a>
+  <a href="https://raw.githubusercontent.com/CarlosUlisesOchoa/Encrypt-Decrypt-Messages-CSharp/master/Encrypt%20and%20Decrypt%20with%20pass%20%5BUI%5D/bin/Debug/Encrypt%20and%20Decrypt%20with%20pass%20%5BUI%5D.exe" target="_BLANK"><img src="https://img.shields.io/badge/Download-Stable_version-green.svg"/></a>
+  <a href="#!"><img src="https://img.shields.io/badge/Contributors-0-blue.svg?style=flat-square"></a>
+  <a href="#!"><img src="https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square"></a>
 </p>
 
 <br>
