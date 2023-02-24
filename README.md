@@ -25,7 +25,6 @@ This program will help you if you want to store text in a secure way
 - [License](#license)
 - [Download](#download)
 - [About developer](#about-developer)
-- [Donate](#donate)
 
 ---
 <br>
@@ -96,23 +95,6 @@ This project is licensed under the terms of the [MIT license](./LICENSE.md).
 
 ## About developer
 
-Visit my website [Carlos Ulises](http://www.carlosulises.ml)
-
-<a href="http://www.carlosulises.ml" target="_BLANK">
-<img width="85%" height="85%" src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/dev.jpg?raw=true" />
-</a>
+Visit my web [Carlos Ochoa](https://carlos8a.com)
 
 <br>
-
-#### My social media
-
-<a href="https://www.facebook.com/UliGibson"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/fb.png?raw=true" width="70"></a> <a href="https://www.linkedin.com/in/carlos-ulises-ochoa-51389215b/"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/li.png?raw=true" width="70"></a> <a href="http://twitter.com/UliGibson"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/tw.png?raw=true" width="70"></a> <a href="mailto:uligibson@hotmail.com"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/outlook.png?raw=true" width="70"></a>
-
-<br>
-<br>
-
-## Donate
-
-Buy me a coffee !
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKM5T7U2JTTAG&source=url"><img width="20%" height="20%" src="https://github.com/CarlosUlisesOchoa/File-Hosting/blob/master/Images/pp%20donate.png?raw=true" alt="Donate button"/></a>
